@@ -20,16 +20,17 @@ truth: I am not prepared
 * **I DIDN'T PREPARE THESE SCRIPTS, WE ARE IN THIS TOGETHER.**
 
 ###Programs:  
-* program that writes every line  
-* program that writes every second line  
-* program that writes first word of every line  
-* shuffle words in each line  
-* print random sentence  
-* program that writes every second word   
-* program that writes every second word and replaces in between words with nothing  
-* porgam that finds a specific word and only prints that li  
-* count words  
-* count specific words  
-* sort by word amount  
-* read in two text, first half of one line second of the other  
-* compare the most frequent words
+* [ ] program that writes every line  
+* [ ] program that writes every second line  
+* [ ] program that writes first word of every line  
+* [ ] shuffle words in each line  
+* [ ] print random sentence  
+* [ ] program that writes every second word   
+* [ ] program that writes every second word and replaces in between words with nothing  
+* [ ] porgam that finds a specific word and only prints that li  
+* [ ] count words  
+* [ ] count specific words  
+* [ ] sort by word amount  
+* [ ] read in two text, first half of one line second of the other  
+* [ ] compare the most frequent words
+* [ ] ...
