@@ -1,4 +1,4 @@
-
+sessions starts with `cat lol | lolcat -a && cat lol | say`
 ##very tiny intro
 The command line is a interface to your computer which you operate through text rather than through a graphical interface.   
 Opening the command line means opening a 'shell' in which you can specify processes that your computer will execute.   
