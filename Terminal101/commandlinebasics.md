@@ -12,7 +12,7 @@ Don't worry about the rest.
 * unavoidable once stepping beyond p5js (node, python, git/github, connected devices...)
 * makes you look very cool 
 
-[**SKIP TO FUN**](https://github.com/leoneckert/sessions#fun-stuff)
+[**SKIP TO FUN**](https://github.com/leoneckert/sessions/blob/master/Terminal101/commandlinebasics.md#fun-stuff)
 
 ##terminal 101 
 
